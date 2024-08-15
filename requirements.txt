@@ -1,0 +1,7 @@
+colorama==0.4.6
+minecraft-launcher-lib==6.4
+pyinstaller==6.5.0
+pyinstaller-hooks-contrib==2024.3
+python-dotenv==1.0.1
+requests==2.31.0
+setuptools==72.1.0
